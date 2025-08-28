@@ -1,0 +1,3 @@
+[submodule "DarcyPINN-CausalTraining"]
+	path = DarcyPINN-CausalTraining
+	url = https://github.com/MiladPnh/DarcyPINN-CausalTraining.git
